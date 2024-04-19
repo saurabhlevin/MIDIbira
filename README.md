@@ -1,7 +1,7 @@
 # MIDIbira
-Hardware 3D printing files and code for the M(IDI)bira controller
+Hardware 3D printing files and code for the M(IDI)bira controller: https://bluelungimagaa.wordpress.com/2019/12/24/midibira-finalfinal-pdf/
 
-Code is basically unnecessary unless you want to your controller to be velocity sensitive (you can still adjust velocity via the Mode button though)
+The code is only useful if you want to your controller to be velocity sensitive (you can still adjust velocity via the Mode button though)
 
 For 3D printing:
 
